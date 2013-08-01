@@ -1,0 +1,71 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 01:37:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 01:37:33 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 194.8.75.239 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98;+Win+9x+4.90) 200 0 0 9129 181 435
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 01:58:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 01:58:28 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 404 0 2 1405 220 38
+2009-10-03 01:58:58 W3SVC20 67.222.136.138 GET / - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 200 0 0 9018 245 121
+2009-10-03 01:58:58 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 200 0 0 233867 269 319
+2009-10-03 02:00:15 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.40 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+acc=vonner;+acc=none;+(none);+iebar;+FunWebProducts;+.NET+CLR+1.1.4322) 200 0 0 9018 198 156
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 06:42:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 06:42:21 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.22.188 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 193 36
+2009-10-03 06:42:21 W3SVC20 67.222.136.138 GET / - 80 - 74.6.22.188 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 364 109
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 07:03:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 07:03:34 W3SVC20 67.222.136.138 GET / - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 8999 651 184
+2009-10-03 07:03:34 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2585 386 102
+2009-10-03 07:03:34 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1574 394 177
+2009-10-03 07:03:34 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 8618 389 316
+2009-10-03 07:03:35 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 5290 394 843
+2009-10-03 07:03:35 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 0 402 1126
+2009-10-03 07:03:35 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 0 396 807
+2009-10-03 07:03:35 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 0 395 1133
+2009-10-03 07:03:35 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 0 390 107
+2009-10-03 07:03:35 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 0 388 1013
+2009-10-03 07:03:35 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 76.94.19.200 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 131072 424 1311
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 09:54:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 09:54:39 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.22.188 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 193 36
+2009-10-03 09:54:39 W3SVC20 67.222.136.138 GET / - 80 - 74.6.22.188 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 304 0 0 229 449 37
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 12:57:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 12:57:49 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 74.6.22.188 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8597 375 91
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 15:06:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 15:06:42 W3SVC20 67.222.136.138 GET / - 80 - 205.203.134.197 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0) 200 0 0 9018 152 161
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 16:10:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 16:10:45 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.18.237 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 38
+2009-10-03 16:10:45 W3SVC20 67.222.136.138 GET / - 80 - 74.6.18.237 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 371 114
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 16:33:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 16:33:31 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 74.6.18.237 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8460 380 80
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 17:13:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 17:13:19 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 212.235.107.29 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.40607) 200 0 0 9129 297 538
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-10-03 22:52:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-10-03 22:52:37 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.33 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+IE7+build+by+RLB,+Xyden+Corporation,+2006-10-19;+IE7+build+by+RLB,+Xyden+Corporation,+2006-10-19) 200 0 0 9018 243 193

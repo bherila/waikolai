@@ -1,0 +1,38 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-19 06:06:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-19 06:06:27 W3SVC20 67.222.136.138 GET / - 80 - 208.80.194.37 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Hotbar+4.5.1.0;+FunWebProducts;+.NET+CLR+1.0.3705) 200 0 0 9018 168 120
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-19 11:44:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-19 11:44:24 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 194.8.74.53 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+95) 200 0 0 9129 463 407
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-19 13:19:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-19 13:19:46 W3SVC20 67.222.136.138 GET /guest.htm+++++++++++++++++++++++++++++++++++++++++Result:+no+post+sending+forms+are+found; - 80 - 77.92.233.198 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) 404 11 0 1424 413 195
+2010-12-19 13:19:46 W3SVC20 67.222.136.138 GET / - 80 - 77.92.233.198 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+SV1;+.NET+CLR+2.0.50727) 200 0 0 9018 233 610
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-19 14:45:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-19 14:45:11 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 91.210.106.252 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 0 9129 250 543
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-19 18:03:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-19 18:03:35 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 88.191.108.76 Mozilla/5.0+(compatible;+MJ12bot/v1.3.3;+http://www.majestic12.co.uk/bot.php?+) 404 0 2 1424 152 114
+2010-12-19 18:03:36 W3SVC20 67.222.136.138 GET / - 80 - 88.191.108.76 Mozilla/5.0+(compatible;+MJ12bot/v1.3.3;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8999 287 341
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-19 20:09:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-19 20:09:54 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 197 177
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-19 23:09:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-19 23:09:41 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.72.234 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 264 35
+2010-12-19 23:09:42 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 66.249.72.234 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 298 88

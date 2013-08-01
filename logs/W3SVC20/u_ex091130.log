@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-11-30 02:00:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-11-30 02:00:04 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 65.55.207.78 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 52
+2009-11-30 02:05:24 W3SVC20 67.222.136.138 GET / - 80 - 65.55.207.78 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 307 61
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-11-30 03:58:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-11-30 03:58:37 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 404 0 2 1405 220 37
+2009-11-30 03:59:07 W3SVC20 67.222.136.138 GET / - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 200 0 0 9018 245 110
+2009-11-30 03:59:07 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 200 0 0 233867 269 276
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-11-30 23:56:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-11-30 23:56:13 W3SVC20 67.222.136.138 GET / - 80 - 75.125.226.154 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+.NET+CLR+1.0.3705) 200 0 0 8999 207 20

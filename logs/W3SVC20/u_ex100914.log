@@ -1,0 +1,77 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-14 01:16:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-14 01:16:34 W3SVC20 67.222.136.138 GET /master.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 9207 296 535
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-14 05:56:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-14 05:56:48 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.138 Googlebot-Image/1.0 404 0 2 1405 211 21
+2010-09-14 05:56:48 W3SVC20 67.222.136.138 GET /images/House/amenity1.jpg - 80 - 66.249.71.138 Googlebot-Image/1.0 304 0 0 210 259 95
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-14 14:05:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-14 14:05:35 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 179
+2010-09-14 14:05:35 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 177
+2010-09-14 14:05:35 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 192
+2010-09-14 14:05:36 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 247 353
+2010-09-14 14:05:36 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 180
+2010-09-14 14:05:36 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 169
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-14 19:30:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-14 19:30:48 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.195.242 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 26
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-14 19:57:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-14 19:57:16 W3SVC20 67.222.136.138 GET / - 80 - 207.46.195.242 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 307 41
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-14 21:44:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-14 21:44:38 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 187 164
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-14 23:53:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-14 23:53:09 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 192
+2010-09-14 23:53:09 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8546 260 356
+2010-09-14 23:53:11 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8626 260 555
+2010-09-14 23:53:11 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2617 260 205
+2010-09-14 23:53:13 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8441 256 186
+2010-09-14 23:53:15 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2555 256 191
+2010-09-14 23:53:15 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8578 258 189
+2010-09-14 23:53:16 W3SVC20 67.222.136.138 GET /living.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 9082 257 176
+2010-09-14 23:53:18 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2606 258 178
+2010-09-14 23:53:18 W3SVC20 67.222.136.138 GET /master.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 9207 257 175
+2010-09-14 23:53:20 W3SVC20 67.222.136.138 GET /living.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2888 257 187
+2010-09-14 23:53:20 W3SVC20 67.222.136.138 GET /master.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2872 257 178
+2010-09-14 23:53:25 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8750 257 190
+2010-09-14 23:53:25 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8584 263 176
+2010-09-14 23:53:27 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2547 263 192
+2010-09-14 23:53:27 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2609 257 175
+2010-09-14 23:53:29 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 176
+2010-09-14 23:53:29 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8448 259 200
+2010-09-14 23:53:30 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2617 256 179
+2010-09-14 23:53:30 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2617 256 166
+2010-09-14 23:53:37 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2551 259 205
+2010-09-14 23:53:38 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2555 252 172
+2010-09-14 23:53:39 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8626 256 177
+2010-09-14 23:53:41 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2555 252 183
+2010-09-14 23:53:42 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2562 256 195
+2010-09-14 23:53:42 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2606 254 173
+2010-09-14 23:53:44 W3SVC20 67.222.136.138 GET /living.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2888 253 166
+2010-09-14 23:53:45 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2606 254 173
+2010-09-14 23:53:49 W3SVC20 67.222.136.138 GET /living.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2888 253 165
+2010-09-14 23:53:50 W3SVC20 67.222.136.138 GET /master.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2872 253 174
+2010-09-14 23:53:50 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2547 259 166
+2010-09-14 23:53:52 W3SVC20 67.222.136.138 GET /master.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2872 253 173
+2010-09-14 23:53:53 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2547 259 177
+2010-09-14 23:53:53 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2609 253 173
+2010-09-14 23:53:58 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2609 253 173
+2010-09-14 23:53:59 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2551 255 177
+2010-09-14 23:54:07 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2551 255 173

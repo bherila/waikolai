@@ -1,0 +1,28 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-11 01:23:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-11 01:23:22 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 216.145.11.94 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 300 46
+2010-03-11 01:23:22 W3SVC20 67.222.136.138 GET / - 80 - 216.145.11.94 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 8999 510 252
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-11 05:06:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-11 05:06:14 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.243 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 268 28
+2010-03-11 05:06:14 W3SVC20 67.222.136.138 GET / - 80 - 66.249.71.243 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 291 64
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-11 13:34:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-11 13:34:23 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.114.57 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 70
+2010-03-11 13:34:24 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 67.195.114.57 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8769 373 179
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-11 21:17:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-11 21:17:29 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 161 165
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-11 22:49:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-11 22:49:42 W3SVC20 67.222.136.138 GET / - 80 - 174.129.139.122 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) 200 0 0 9018 372 280

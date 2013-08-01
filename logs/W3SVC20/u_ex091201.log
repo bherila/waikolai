@@ -1,0 +1,111 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 04:01:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 04:01:24 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9129 208 920
+2009-12-01 04:01:28 W3SVC20 67.222.136.138 GET /index.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9018 208 1669
+2009-12-01 04:01:32 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8597 210 299
+2009-12-01 04:01:36 W3SVC20 67.222.136.138 GET /living.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9101 209 981
+2009-12-01 04:01:37 W3SVC20 67.222.136.138 GET /master.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9226 209 928
+2009-12-01 04:01:37 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8565 212 291
+2009-12-01 04:01:39 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8603 215 922
+2009-12-01 04:01:39 W3SVC20 67.222.136.138 GET /third.htm - 80 - 95.168.162.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8582 208 293
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 05:33:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 8441 802 271
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 404 0 2 1405 328 53
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 1574 336 77
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 1949 334 61
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 8618 331 286
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 5290 336 298
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 2585 328 66
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 19736 330 341
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 27876 337 412
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 2297 332 56
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 404 0 2 1405 357 76
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 27735 338 405
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 1140 337 67
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 404 0 2 1405 355 47
+2009-12-01 05:33:34 W3SVC20 67.222.136.138 GET /images/House/Entry1.JPG - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 31859 336 378
+2009-12-01 05:33:35 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 404 0 2 1405 358 120
+2009-12-01 05:33:35 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 3585 330 372
+2009-12-01 05:33:35 W3SVC20 67.222.136.138 GET /images/House/Entry2.JPG - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 60560 336 440
+2009-12-01 05:33:35 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 121830 344 486
+2009-12-01 05:33:35 W3SVC20 67.222.136.138 GET /images/submenu1roll.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 2839 336 53
+2009-12-01 05:33:35 W3SVC20 67.222.136.138 GET /images/menuroll.gif - 80 - 72.201.1.168 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_6_2;+en-us)+AppleWebKit/531.21.8+(KHTML,+like+Gecko)+Version/4.0.4+Safari/531.21.10 200 0 0 4627 332 163
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 06:04:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 06:04:13 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 404 0 2 1424 234 341
+2009-12-01 06:04:15 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8546 293 627
+2009-12-01 06:04:17 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8626 316 358
+2009-12-01 06:08:04 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8441 336 639
+2009-12-01 06:08:05 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8578 314 225
+2009-12-01 06:08:08 W3SVC20 67.222.136.138 GET /living.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 9082 313 247
+2009-12-01 06:09:30 W3SVC20 67.222.136.138 GET /master.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 9207 313 186
+2009-12-01 06:09:35 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8584 319 217
+2009-12-01 06:09:48 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8750 313 240
+2009-12-01 06:09:52 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 88.68.167.234 Mozilla/5.0+(compatible;+MJ12bot/v1.3.1;+http://www.majestic12.co.uk/bot.php?+) 200 0 0 8448 315 227
+2009-12-01 06:23:34 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 114.249.121.40 Mozilla/4.7+(compatible;+OffByOne;+Windows+2000)+Webster+Pro+V3.4 200 0 0 9129 219 1104
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 11:44:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 11:44:21 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.26 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+FunWebProducts;+.NET+CLR+1.1.4322;+InfoPath.2;+.NET+CLR+2.0.50727) 200 0 0 9018 178 149
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 13:32:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 13:32:11 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.26 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+YPC+3.2.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+yplus+5.3.03b) 200 0 0 9018 195 119
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 17:13:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 17:13:58 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9129 208 422
+2009-12-01 17:13:58 W3SVC20 67.222.136.138 GET /index.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9018 208 449
+2009-12-01 17:13:59 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8597 210 309
+2009-12-01 17:13:59 W3SVC20 67.222.136.138 GET /living.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9101 209 434
+2009-12-01 17:14:01 W3SVC20 67.222.136.138 GET /master.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9226 209 404
+2009-12-01 17:14:01 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8565 212 298
+2009-12-01 17:14:01 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8603 215 273
+2009-12-01 17:14:02 W3SVC20 67.222.136.138 GET /third.htm - 80 - 94.102.49.76 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8582 208 275
+2009-12-01 17:28:25 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.44 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+{626B604C-D125-5C82-EAEB-464F9C1BDBEE};+.NET+CLR+1.0.3705;+.NET+CLR+2.0.50727;+.NET+CLR+1.1.4322) 200 0 0 9018 215 132
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 18:30:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 18:30:34 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.111.32 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 193 59
+2009-12-01 18:30:34 W3SVC20 67.222.136.138 GET /living.htm - 80 - 67.195.111.32 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9101 374 192
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 19:55:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 19:55:41 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.111.32 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 193 57
+2009-12-01 19:55:41 W3SVC20 67.222.136.138 GET /index.htm - 80 - 67.195.111.32 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 373 185
+2009-12-01 20:09:24 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 212.178.14.69 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+5.0;+T312461) 200 0 0 9129 213 1054
+2009-12-01 20:21:33 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 67.195.111.32 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8597 375 130
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-12-01 20:49:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-12-01 20:49:53 W3SVC20 67.222.136.138 GET /index.htm - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 8999 285 293
+2009-12-01 20:49:53 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 0 338 209
+2009-12-01 20:49:53 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64 0 337 119
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 8618 338 219
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 27876 344 456
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 19736 337 252
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1574 343 141
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 5290 343 121
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1949 341 115
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 27735 345 155
+2009-12-01 20:49:55 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2585 335 95
+2009-12-01 20:49:56 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2297 339 90
+2009-12-01 20:49:56 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 364 121
+2009-12-01 20:49:56 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 3585 337 146
+2009-12-01 20:49:56 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 362 177
+2009-12-01 20:49:56 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 121830 351 464
+2009-12-01 20:49:56 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 365 139
+2009-12-01 20:49:56 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 189.231.83.216 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+DigExt;+SV1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1140 344 100

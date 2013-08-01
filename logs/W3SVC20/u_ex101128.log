@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-28 05:07:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-28 05:07:28 W3SVC20 67.222.136.138 GET /images/House/Kitchen2.JPG - 80 - 166.137.8.234 Bing/1.3.0+CFNetwork/459+Darwin/10.0.0d3 200 0 0 56968 221 1461
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-28 06:06:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-28 06:06:33 W3SVC20 67.222.136.138 GET / - 80 - 205.203.134.197 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0) 200 0 0 9018 152 168
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-28 07:05:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-28 07:05:44 W3SVC20 67.222.136.138 GET / - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8999 141 128
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8448 153 53
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8578 152 65
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8750 151 52
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8441 150 73
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8546 154 84
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET / - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8999 141 54
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /living.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 9082 151 89
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /master.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 9207 151 77
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8584 157 66
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8626 154 62
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /index.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8999 150 50
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 9110 150 82
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /third2.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 404 0 2 1405 151 43
+2010-11-28 07:06:25 W3SVC20 67.222.136.138 GET /third.htm - 80 - 38.100.41.99 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8563 150 72
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-28 13:13:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-28 13:13:57 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.112.126 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 87
+2010-11-28 13:13:57 W3SVC20 67.222.136.138 GET / - 80 - 67.195.112.126 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 359 179

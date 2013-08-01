@@ -1,0 +1,47 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-15 00:42:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-15 00:42:42 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 404 0 2 1405 255 54
+2010-12-15 00:57:38 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8546 258 141
+2010-12-15 00:57:43 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8626 258 137
+2010-12-15 00:57:48 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8441 254 141
+2010-12-15 00:57:54 W3SVC20 67.222.136.138 GET /index.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8999 254 207
+2010-12-15 00:57:59 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8750 255 206
+2010-12-15 00:58:04 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8448 257 136
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-15 04:40:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-15 04:40:05 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8578 256 142
+2010-12-15 04:40:10 W3SVC20 67.222.136.138 GET /living.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9082 255 195
+2010-12-15 04:40:15 W3SVC20 67.222.136.138 GET /master.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9207 255 202
+2010-12-15 04:40:19 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8584 261 144
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-15 06:45:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-15 06:45:04 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 9129 253 416
+2010-12-15 06:45:04 W3SVC20 67.222.136.138 GET /index.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 9018 253 406
+2010-12-15 06:45:05 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 8597 255 278
+2010-12-15 06:45:05 W3SVC20 67.222.136.138 GET /living.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 9101 254 411
+2010-12-15 06:45:41 W3SVC20 67.222.136.138 GET /master.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 9226 254 421
+2010-12-15 06:45:41 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 8565 257 284
+2010-12-15 06:45:45 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 8603 260 285
+2010-12-15 06:45:45 W3SVC20 67.222.136.138 GET /third.htm - 80 - 78.159.112.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 8582 253 279
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-15 16:01:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-15 16:01:23 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 96.36.81.204 Opera/7.54+(Windows+NT+5.1;+U)++[pl] 200 0 0 9129 212 245
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-15 21:52:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-15 21:52:03 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 197 166
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-15 22:30:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-15 22:30:42 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.112.126 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 74
+2010-12-15 22:30:42 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 67.195.112.126 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9129 368 242

@@ -1,0 +1,29 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-25 05:04:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-25 05:04:11 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 64.246.165.140 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 300 45
+2010-01-25 05:04:11 W3SVC20 67.222.136.138 GET / - 80 - 64.246.165.140 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 8999 510 134
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-25 14:31:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-25 14:31:03 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 38.99.96.193 Mozilla/5.0+(compatible;+ScoutJet;++http://www.scoutjet.com/) 404 0 2 1424 189 52
+2010-01-25 14:31:05 W3SVC20 67.222.136.138 GET / - 80 - 38.99.96.193 Mozilla/5.0+(compatible;+ScoutJet;++http://www.scoutjet.com/) 200 0 0 9018 179 198
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-25 14:49:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-25 14:49:35 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.65.97 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 264 38
+2010-01-25 14:49:35 W3SVC20 67.222.136.138 GET / - 80 - 66.249.65.97 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 237 115
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-25 21:08:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-25 21:08:44 W3SVC20 67.222.136.138 GET /master.htm - 80 - 66.249.65.97 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 297 37
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-25 23:53:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-25 23:53:45 W3SVC20 67.222.136.138 GET /index.htm - 80 - 66.249.65.97 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 246 123
+2010-01-25 23:55:57 W3SVC20 67.222.136.138 GET /images/House/Entry2.JPG - 80 - 66.249.65.97 Googlebot-Image/1.0 200 0 0 60560 207 196

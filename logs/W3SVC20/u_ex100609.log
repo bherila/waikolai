@@ -1,0 +1,56 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 03:31:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 03:31:14 W3SVC20 67.222.136.138 GET / - 80 - 184.73.53.122 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) 200 0 0 9018 372 290
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 04:32:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 04:32:22 W3SVC20 67.222.136.138 GET /index.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8999 269 511
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 05:12:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 05:12:23 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.68.146 Googlebot-Image/1.0 404 0 2 1405 211 77
+2010-06-09 05:12:23 W3SVC20 67.222.136.138 GET /images/House/Master3.JPG - 80 - 66.249.68.146 Googlebot-Image/1.0 304 0 0 210 258 134
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 08:09:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 08:09:23 W3SVC20 67.222.136.138 GET /images/House/Master2.JPG - 80 - 66.249.68.146 Googlebot-Image/1.0 304 0 0 210 258 76
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 11:28:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 11:28:01 W3SVC20 67.222.136.138 GET / - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8999 260 519
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 12:01:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 12:01:15 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 81
+2010-06-09 12:01:15 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8565 376 172
+2010-06-09 12:13:21 W3SVC20 67.222.136.138 GET /master.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9226 373 1662
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 12:57:04
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 12:57:03 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 233848 280 1364
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 18:46:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 18:46:44 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.199.42 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 27
+2010-06-09 18:47:41 W3SVC20 67.222.136.138 GET / - 80 - 207.46.199.42 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 307 42
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 20:00:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 20:00:19 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 80
+2010-06-09 20:00:20 W3SVC20 67.222.136.138 GET /living.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9101 373 258
+2010-06-09 20:14:30 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8597 374 178
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-09 23:31:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-09 23:31:16 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8603 379 134

@@ -1,0 +1,112 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 00:57:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 00:57:59 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 185
+2010-11-03 00:57:59 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 187
+2010-11-03 00:57:59 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 190
+2010-11-03 00:58:00 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 247 380
+2010-11-03 00:58:00 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 176
+2010-11-03 00:58:00 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 176
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 01:29:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 01:29:26 W3SVC20 67.222.136.138 GET / - 80 - 208.80.194.32 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+SIMBAR+Enabled;+SIMBAR={07F9E772-A948-4a9b-9ED3-D52108C7F428};+.NET+CLR+2.0.50727;+SpamBlockerUtility+4.8.6) 200 0 0 9018 226 111
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 08:55:03
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 08:55:03 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 91.210.106.252 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9129 231 538
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 11:37:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 95.24.17.56 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 8460 389 625
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 95.24.17.56 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 1159 278 218
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 95.24.5.69 Opera/9.00+(Windows+NT+5.1;+U;+ru) 404 0 2 1424 296 184
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 95.27.69.238 Opera/9.00+(Windows+NT+5.1;+U;+ru) 404 0 2 1424 269 197
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 95.27.1.223 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 1593 277 219
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 95.24.52.11 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 1968 275 250
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 95.24.13.138 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 2316 273 253
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 89.178.222.152 Opera/9.00+(Windows+NT+5.1;+U;+ru) 404 0 2 1424 298 243
+2010-11-03 11:37:28 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 95.25.171.31 Opera/9.00+(Windows+NT+5.1;+U;+ru) 404 0 2 1424 299 274
+2010-11-03 11:37:29 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 95.27.26.25 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 5309 277 481
+2010-11-03 11:37:29 W3SVC20 67.222.136.138 GET /images/House/Entry1.JPG - 80 - 95.24.5.69 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 31878 277 801
+2010-11-03 11:37:29 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 95.24.5.180 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 27754 279 845
+2010-11-03 11:37:29 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 95.28.123.182 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 27895 278 849
+2010-11-03 11:37:29 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 95.25.116.91 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 2604 269 988
+2010-11-03 11:37:29 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 95.27.1.223 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 121849 285 1196
+2010-11-03 11:37:30 W3SVC20 67.222.136.138 GET /images/House/Entry2.JPG - 80 - 95.24.13.138 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 60579 277 1563
+2010-11-03 11:37:30 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 95.25.171.31 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 19755 271 1826
+2010-11-03 11:37:32 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 95.27.69.17 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 3604 271 411
+2010-11-03 11:37:33 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 95.27.61.181 Opera/9.00+(Windows+NT+5.1;+U;+ru) 200 0 0 8637 272 1819
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 12:13:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 12:13:12 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 9129 247 405
+2010-11-03 12:13:12 W3SVC20 67.222.136.138 GET /index.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 9018 247 406
+2010-11-03 12:13:13 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 8597 249 289
+2010-11-03 12:13:16 W3SVC20 67.222.136.138 GET /living.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 9101 248 398
+2010-11-03 12:13:21 W3SVC20 67.222.136.138 GET /master.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 9226 248 991
+2010-11-03 12:13:21 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 8565 251 394
+2010-11-03 12:13:22 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 8603 254 310
+2010-11-03 12:13:25 W3SVC20 67.222.136.138 GET /third.htm - 80 - 213.239.200.199 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB0.0;+InfoPath.1) 200 0 0 8582 247 271
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 14:06:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 14:06:12 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 68.148.88.138 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)+Netscape/8.0.4 200 0 0 9129 237 307
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 15:19:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 15:19:26 W3SVC20 67.222.136.138 GET / - 80 - 89.178.222.52 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 0 9018 375 573
+2010-11-03 15:19:26 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 95.27.251.192 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 404 0 2 1424 249 181
+2010-11-03 15:19:29 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 89.178.190.160 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 0 233867 258 2566
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 15:52:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 15:52:00 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 95.25.209.199 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 8460 420 559
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 95.27.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 5309 308 384
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 95.24.85.96 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 2316 304 190
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 95.25.247.64 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 404 0 2 1424 330 181
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 95.24.90.205 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 404 0 2 1424 300 192
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 95.26.78.59 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 3604 302 377
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 95.27.253.166 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 27754 310 738
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 95.27.172.55 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 27895 309 751
+2010-11-03 15:52:02 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 95.27.176.106 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 2604 300 759
+2010-11-03 15:52:03 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 89.178.177.232 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 19755 302 701
+2010-11-03 15:52:03 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 93.80.19.119 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 1593 308 190
+2010-11-03 15:52:03 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 95.24.85.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 8637 303 554
+2010-11-03 15:52:03 W3SVC20 67.222.136.138 GET /images/House/Entry1.JPG - 80 - 95.27.1.168 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 31878 308 762
+2010-11-03 15:52:03 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 95.25.86.42 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 121849 316 1506
+2010-11-03 15:52:03 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 89.178.157.209 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 1968 306 174
+2010-11-03 15:52:03 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 89.178.151.231 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 404 0 2 1424 329 186
+2010-11-03 15:52:04 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 95.24.94.222 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 404 0 2 1424 327 180
+2010-11-03 15:52:05 W3SVC20 67.222.136.138 GET /images/House/Entry2.JPG - 80 - 89.178.177.48 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 60579 308 4137
+2010-11-03 15:52:05 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 89.178.30.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+ru)+Opera+8.50 200 0 0 1159 309 178
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 18:28:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 18:28:52 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.13.41 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 64 0 275 33
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 19:37:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 19:37:25 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 207.46.13.41 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 376 61
+2010-11-03 19:45:18 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.112.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 74
+2010-11-03 19:45:18 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 67.195.112.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8467 375 189
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 21:10:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 21:10:27 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 95.26.40.33 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+95;+BCD2000) 200 0 0 9129 231 542
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-03 22:40:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-03 22:40:00 W3SVC20 67.222.136.138 GET / - 80 - 67.202.8.173 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) 200 0 0 9018 372 286

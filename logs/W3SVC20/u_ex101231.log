@@ -1,0 +1,128 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 03:00:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 03:00:06 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 210.51.58.102 Opera/9.0+(Windows+NT+5.1;+U;+en) 200 0 0 9129 209 1558
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 03:41:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 03:41:54 W3SVC20 67.222.136.138 GET / - 80 - 208.80.194.26 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+SIMBAR+Enabled;+SIMBAR={84F61DBF-BA0D-41f1-B15A-69FE4054C3F8}) 200 0 0 9018 185 414
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 05:09:19
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 05:09:18 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 180
+2010-12-31 05:09:18 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 179
+2010-12-31 05:09:20 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 186
+2010-12-31 05:09:20 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 243 340
+2010-12-31 05:09:20 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 170
+2010-12-31 05:09:20 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 169
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 07:09:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 07:09:27 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 87.68.57.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 0 9129 250 619
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET / - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 8999 467 493
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 1574 356 135
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 348 99
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 5290 356 139
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 1949 354 109
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 27735 358 227
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 2585 348 101
+2010-12-31 07:14:06 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 2297 352 91
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 377 104
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 19736 350 1017
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 3585 350 127
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 27876 357 1239
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 121830 364 336
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 1140 357 99
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 233848 357 1337
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 8618 351 109
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 375 92
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/submenu1roll.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 2839 356 117
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 378 109
+2010-12-31 07:14:07 W3SVC20 67.222.136.138 GET /favicon.ico - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 344 103
+2010-12-31 07:14:41 W3SVC20 67.222.136.138 GET /images/menuroll.gif - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 4627 352 241
+2010-12-31 07:14:46 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 8584 436 205
+2010-12-31 07:14:46 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 364 111
+2010-12-31 07:14:46 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 393 98
+2010-12-31 07:14:46 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 391 93
+2010-12-31 07:14:46 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 394 93
+2010-12-31 07:14:46 W3SVC20 67.222.136.138 GET /images/House/Reservations1.JPG - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 77852 379 881
+2010-12-31 07:14:53 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 364 108
+2010-12-31 07:14:53 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 394 103
+2010-12-31 07:14:53 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 393 103
+2010-12-31 07:14:53 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 391 103
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 8750 446 122
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 387 89
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 358 91
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /images/House/Vistas1.JPG - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 118826 367 365
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 385 103
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 404 0 2 1405 388 96
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /images/House/Vistas3.JPG - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 168944 367 478
+2010-12-31 07:14:56 W3SVC20 67.222.136.138 GET /images/House/Vistas2.JPG - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 111169 367 746
+2010-12-31 07:14:57 W3SVC20 67.222.136.138 GET /images/House/Vistas4.JPG - 80 - 76.102.80.78 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-us)+AppleWebKit/533.19.4+(KHTML,+like+Gecko)+Version/5.0.3+Safari/533.19.4 200 0 0 185506 367 923
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 09:34:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 09:34:36 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 404 0 2 1405 255 65
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 13:00:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 13:00:01 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 210.51.58.102 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98;+Win+9x+4.90;+Creative) 200 0 0 9129 245 4242
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 13:32:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 13:32:59 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 404 0 2 1405 255 55
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 13:53:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 13:53:58 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8626 258 146
+2010-12-31 13:54:03 W3SVC20 67.222.136.138 GET /third.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8563 254 150
+2010-12-31 13:54:08 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8750 255 211
+2010-12-31 13:54:14 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8448 257 149
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 14:26:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 14:26:33 W3SVC20 67.222.136.138 GET / - 80 - 207.46.193.36 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4325;++.NET+CLR+2.0.50727;++.NET+CLR+3.0.30729) 200 0 0 8999 289 273
+2010-12-31 14:26:42 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 207.46.193.36 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4325;++.NET+CLR+2.0.50727;++.NET+CLR+3.0.30729) 404 0 2 1405 371 179
+2010-12-31 14:26:50 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 207.46.193.36 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4325;++.NET+CLR+2.0.50727;++.NET+CLR+3.0.30729) 200 0 0 233848 383 349
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 15:24:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 15:24:26 W3SVC20 67.222.136.138 GET / - 80 - 123.125.71.100 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 2920 159 261
+2010-12-31 15:24:42 W3SVC20 67.222.136.138 GET / - 80 - 220.181.108.184 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 159 340
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 15:54:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 15:54:21 W3SVC20 67.222.136.138 GET / - 80 - 123.125.71.112 Baiduspider+(+http://www.baidu.com/search/spider.htm) 304 0 0 229 286 281
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 17:49:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 17:49:39 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8546 258 158
+2010-12-31 17:49:44 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8441 254 150
+2010-12-31 17:50:37 W3SVC20 67.222.136.138 GET /index.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8999 254 207
+2010-12-31 17:50:42 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8578 256 150
+2010-12-31 17:50:47 W3SVC20 67.222.136.138 GET /living.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9082 255 211
+2010-12-31 17:50:52 W3SVC20 67.222.136.138 GET /master.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 9207 255 213
+2010-12-31 17:50:57 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 208.115.111.247 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.dotnetdotcom.org/,+crawler@dotnetdotcom.org) 200 0 0 8584 261 152
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 22:24:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 22:24:25 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 197 177
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-12-31 23:07:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-12-31 23:07:45 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 264 22
+2010-12-31 23:07:45 W3SVC20 67.222.136.138 GET / - 80 - 66.249.71.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 287 90

@@ -1,0 +1,379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>waikolai at Wai'ula'ula - Mauna Kea Resort</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css">
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	padding: 0;
+	margin: 0;
+	background: url(images/pattern.gif) repeat 0 0;
+	width: 100%;
+	height: 100%;
+}
+
+#contain_all {
+	width: 670px;
+	margin: auto;
+	background: url(images/shadow.jpg) no-repeat 0 0;
+	padding: 0;
+	}
+
+#container {
+	width: 660px;
+	margin: auto;
+	padding: 0;
+	}
+
+#flashbox {
+	width: 660px;
+	height: 477px;
+	padding: 0;
+	z-index: 8;
+	float: right;
+	position: absolute;
+	display: none;	}
+
+#site {
+	width: 660px;
+	padding: 0;
+	z-index: 7;
+	margin-left: 4px;
+	}
+
+#header {
+	/*background: url(images/pages/com_about/images/banner.jpg) no-repeat 0 0;*/
+	height: 75px;
+	padding: 0;
+	margin: 0;
+	background: no-repeat
+	}
+
+#topmenu {
+	height: 20px;
+	padding: 0;
+	margin: 0;
+	background: url(images/menu.gif) no-repeat 0 0;
+	}
+
+#submenu {
+	background: url(images/submenu1.gif) no-repeat 0 0;
+	height: 20px;
+	padding: 0;
+	margin: 0;
+	}
+
+#footer {
+	background: url(images/footer.gif) no-repeat 0 0;
+	height: 20px;
+	padding: 0;
+	margin: 0;
+	}
+
+#shad_bot {
+	width: 670px;
+	height: 7px;
+	background: url(images/shadow_bottom.jpg) no-repeat 0 0;
+	margin: auto;
+	padding: 0;
+}
+
+#main {
+	height: 290px; /* Switch to 344px if using submenu */
+	background: url(images/pages/com_about/images/body_photo.jpg) #ffffff no-repeat 0 0;
+	margin: 0;
+	padding: 0;
+	}
+
+#text {
+	background-color: #ffffff;
+	padding: 50px 40px 20px 45px;
+	overflow: auto;
+	line-height: 20px;
+	min-height: 130px;
+	}
+
+a {
+	outline: none;
+}
+
+
+/*****  TOP MENU CSS MOUSEOVER  *****/
+#top_menu {
+	width: 660px;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	line-height: 1;
+	}
+
+#top_menu li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: absolute;
+	top: 0px;
+	height: 20px;
+	}
+
+#top_menu a.top {
+	height: 20px;
+	display: block;
+	}
+
+#tm1 {
+	left: 10px;
+	width: 85px;
+	}
+
+#tm1 a:hover.top {
+	background: transparent url(images/menuroll.gif) -10px 0px no-repeat;
+	}
+
+#tm2 {
+	left: 95px;
+	width: 72px;
+	}
+
+#tm2 a:hover.top {
+	background: transparent url(images/menuroll.gif) -95px 0px no-repeat;
+	}
+
+#tm3 {
+	left: 169px;
+	width: 95px;
+	}
+
+#tm3 a:hover.top {
+	background: transparent url(images/menuroll.gif) -169px 0px no-repeat;
+	}
+
+#tm4 {
+	left: 264px;
+	width: 146px;
+	}
+
+#tm4 a:hover.top {
+	background: transparent url(images/menuroll.gif) -264px 0px no-repeat;
+	}
+
+#tm5 {
+	left: 414px;
+	width: 90px;
+	}
+
+#tm5 a:hover.top {
+	background: transparent url(images/menuroll.gif) -414px 0px no-repeat;
+	}
+
+#tm6 {
+	left: 550px;
+	width: 110px;
+	}
+
+#tm6 a:hover.top {
+	background: transparent url(images/menuroll.gif) -550px 0px no-repeat;
+	}
+
+
+/*****  FOOTER MENU CSS MOUSEOVER  *****/
+#footer_menu {
+	width: 660px;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	line-height: 1;
+	}
+
+#footer_menu li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: absolute;
+	top: 0px;
+	height: 20px;
+	}
+
+#footer_menu a.foot {
+	height: 20px;
+	display: block;
+	}
+
+#fm1 {
+	left: 560px;
+	width: 80px;
+	}
+
+#fm1 a:hover.foot {
+	background: transparent url(images/footerroll.gif) -560px 0px no-repeat;
+	}
+
+
+
+/*****  SUB MENU CSS MOUSEOVER  *****/
+#sub_menu {
+	width: 660px;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	line-height: 1;
+	}
+
+#sub_menu li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: absolute;
+	top: 0;
+	height: 20px;
+	}
+
+#sub_menu a.sub {
+	height: 20px;
+	display: block;
+	}
+
+#sm1 {
+	left: 10px;
+	width: 115px;
+	}
+
+#sm1 a:hover.sub {
+	background: transparent url(images/submenu1roll.gif) -10px 0px no-repeat;
+	}
+
+#sm2 {
+	left: 125px;
+	width: 85px;
+	}
+
+#sm2 a:hover.sub {
+	background: transparent url(images/submenu1roll.gif) -125px 0px no-repeat;
+	}
+
+#sm3 {
+	left: 210px;
+	width: 60px;
+	}
+
+#sm3 a:hover.sub {
+	background: transparent url(images/submenu1roll.gif) -210px 0px no-repeat;
+	}
+
+#sm4 {
+	left: 270px;
+	width: 95px;
+	}
+
+#sm4 a:hover.sub {
+	background: transparent url(images/submenu1roll.gif) -270px 0px no-repeat;
+	}
+</style>
+<script language="JavaScript" type="text/JavaScript">
+function show(obj1,obj2) {
+	obj3 = "skip";
+	if (document.getElementById) {
+		// document.getElementById(obj1).style.display = 'inline';
+		document.getElementById(obj2).style.display = 'none';
+		document.getElementById(obj3).style.display = 'none';
+	} else alert ('This form will not work in your browser.');
+}
+function show2(obj1,obj2) {
+	if (document.getElementById) {
+		document.getElementById(obj1).style.display = 'none';
+		document.getElementById(obj2).style.display = 'none';
+	} else alert ('This form will not work in your browser.');
+}
+</script>
+</head>
+
+<body >
+<br /><br /><br /><br /><br /><br />
+<div id="contain_all">
+	<div id="container">
+
+		<div id="site">
+		  <div id="header"><table width="100%" border="0" background="images/source/header.png">
+  <tr>
+    <td width="162" background="images/maunakealogo.gif"></td>
+    <td width="330" background="images/waikolailogo.jpg" bgcolor="#FFFFFF"></td>
+    <td width="158" height="55" background="images/princelogo.gif"></td>
+  </tr>
+</table>
+		    <table width="100%" background="images/source/header2.png">
+              <tr>
+                <td height="11"></td>
+              </tr>
+            </table>
+		  </div>
+			<div id="topmenu">
+				<ul id="top_menu">
+					<li id="tm1"><a class="top" href=""></a></li>
+					<li id="tm2"><a class="top" href="kitchen.htm"></a></li>
+					<li id="tm3"><a class="top" href="living.htm"></a></li>
+					<li id="tm4"><a class="top" href="master.htm"></a></li>
+					<li id="tm5"><a class="top" href="amenities.htm"></a></li>
+					<li id="tm6"><a class="top" href="reservations.htm"></a></li>
+			  </ul>
+			</div>
+		  <div id="submenu">
+		    <ul id="sub_menu" name="sub_menu">
+              <li id="sm1"><a class="sub" href="bigisland.htm"></a></li>
+		      <li id="sm2"><a class="sub" href="waikolai.htm"></a></li>
+		      <li id="sm3"><a class="sub" href="entry.htm"></a></li>
+			  <li id="sm4"><a class="sub" href="vistas.htm"></a></li>
+	        </ul>
+		  </div>
+
+			<div id="main">
+			<table width="100%" border="0">
+  <tr>
+    <td height="272"></td>
+    <td width="63%"><img src="images/House/Big1.JPG" width="418" height="280" /></td>
+    <td width="26%"><img src="images/source/plumeriasmall.png" width="168" height="200" /></td>
+    <td width="4%"></td>
+  </tr>
+  <tr>
+    <td width="5%" height="8"></td>
+    <td colspan="3">&nbsp;</td>
+    </tr>
+</table>
+
+			</div>
+		  <div id="text"> 
+		    <p>Welcome to Waikolai, your elegant, sophisticated, and relaxing vacation location of choice...<br />
+		      <br />
+	        Located at the highest elevation point of the community, this ground level, 3   bedroom, 3 bathroom condominium at the Ridge has a lofty perch over lovely   full Ocean and Hapuna Golf Course Views. The large wrap around lanai offers   ideal space to lounge or BBQ and entertain with full Outdoor Kitchen.<br />
+	        <br />
+	        <img src="images/House/Big2.JPG" width="565" height="378" /><br />
+	        <br />
+	        <img src="images/House/Big3.JPG" width="565" height="378" /><br />
+	        <br />
+	        <img src="images/House/Big4.JPG" width="565" height="378" /><br />
+            </p>
+	      </div>
+			<div id="footer">
+
+				<ul id="footer_menu">
+					<li id="fm1"><a class="foot" href="reservations.htm"></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="shad_bot"></div>
+<br /><br /><br />
+<div id="roll_load">
+<img src="images/pages/com_about/images/nav_roll.jpg" width="1" height="1" border="0" alt="" />
+<img src="images/pages/com_about/images/subnav_roll.jpg" width="1" height="1" border="0" alt="" />
+</div>
+<script language="JavaScript" type="text/javascript" src="NoIEActivate.js"></script>
+</body>
+</html>

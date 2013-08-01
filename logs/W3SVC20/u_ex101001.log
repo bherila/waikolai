@@ -1,0 +1,58 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-01 02:40:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-01 02:40:28 W3SVC20 67.222.136.138 GET / - 80 - 208.80.194.32 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+YPC+3.0.3;+.NET+CLR+1.1.4322;+yplus+4.1.00b) 200 0 0 9018 162 408
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-01 05:45:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-01 05:45:47 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 183
+2010-10-01 05:45:47 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 183
+2010-10-01 05:45:47 W3SVC20 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 243 343
+2010-10-01 05:45:48 W3SVC20 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 184
+2010-10-01 05:45:48 W3SVC20 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 171
+2010-10-01 05:45:49 W3SVC20 67.222.136.138 GET / - 80 - 95.108.151.244 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 172
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-01 07:02:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-01 07:02:41 W3SVC20 67.222.136.138 GET / - 80 - 204.14.95.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 256 128
+2010-10-01 07:02:41 W3SVC20 67.222.136.138 GET /old/ - 80 - 204.14.95.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 260 43
+2010-10-01 07:02:41 W3SVC20 67.222.136.138 GET /forum/ - 80 - 204.14.95.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 262 43
+2010-10-01 07:02:41 W3SVC20 67.222.136.138 GET /forums/ - 80 - 204.14.95.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 263 43
+2010-10-01 07:02:41 W3SVC20 67.222.136.138 GET /vb/ - 80 - 204.14.95.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 259 43
+2010-10-01 07:02:41 W3SVC20 67.222.136.138 GET /vbulletin/ - 80 - 204.14.95.150 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 266 43
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-01 13:58:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-01 13:58:20 W3SVC20 67.222.136.138 GET / - 80 - 151.1.155.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 256 624
+2010-10-01 13:58:20 W3SVC20 67.222.136.138 GET /old/ - 80 - 151.1.155.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 260 201
+2010-10-01 13:58:22 W3SVC20 67.222.136.138 GET /forum/ - 80 - 151.1.155.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 262 198
+2010-10-01 13:58:22 W3SVC20 67.222.136.138 GET /forums/ - 80 - 151.1.155.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 263 202
+2010-10-01 13:58:22 W3SVC20 67.222.136.138 GET /vb/ - 80 - 151.1.155.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 259 201
+2010-10-01 13:58:23 W3SVC20 67.222.136.138 GET /vbulletin/ - 80 - 151.1.155.4 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 266 198
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-01 15:40:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-01 15:40:58 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9129 219 394
+2010-10-01 15:40:58 W3SVC20 67.222.136.138 GET /index.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9018 219 384
+2010-10-01 15:41:00 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8597 221 265
+2010-10-01 15:41:00 W3SVC20 67.222.136.138 GET /living.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9101 220 377
+2010-10-01 15:41:01 W3SVC20 67.222.136.138 GET /master.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9226 220 1255
+2010-10-01 15:41:01 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8565 223 268
+2010-10-01 15:41:02 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8603 226 257
+2010-10-01 15:41:05 W3SVC20 67.222.136.138 GET /third.htm - 80 - 213.5.64.15 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8582 219 274
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-01 16:25:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-01 16:25:53 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.138 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 264 22
+2010-10-01 16:25:53 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 66.249.71.138 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 9110 246 91
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-01 16:59:46
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-01 16:59:45 W3SVC20 67.222.136.138 GET /index.htm - 80 - 66.249.71.138 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 246 72

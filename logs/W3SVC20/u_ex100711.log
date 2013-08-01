@@ -1,0 +1,62 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-11 01:09:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-11 01:09:11 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 58
+2010-07-11 01:09:11 W3SVC20 67.222.136.138 GET /third.htm - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8582 372 128
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-11 05:08:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-11 05:08:15 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2 1405 191 161
+2010-07-11 05:09:00 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 80.167.238.78 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+95)+Opera+6.01++[en] 200 0 0 9129 239 1733
+2010-07-11 05:18:36 W3SVC20 67.222.136.138 GET / - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8999 197 426
+2010-07-11 05:18:36 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 254 171
+2010-07-11 05:18:36 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 254 138
+2010-07-11 05:18:36 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8578 250 149
+2010-07-11 05:18:37 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 265 145
+2010-07-11 05:18:37 W3SVC20 67.222.136.138 GET /index.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 2816 259 145
+2010-07-11 05:18:37 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 263 138
+2010-07-11 05:18:37 W3SVC20 67.222.136.138 GET /living.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 9082 260 290
+2010-07-11 05:18:37 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 264 147
+2010-07-11 05:18:38 W3SVC20 67.222.136.138 GET /master.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 9207 260 155
+2010-07-11 05:18:38 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 264 147
+2010-07-11 05:18:38 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8546 263 146
+2010-07-11 05:18:38 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 267 146
+2010-07-11 05:18:38 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8584 266 147
+2010-07-11 05:18:38 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 270 154
+2010-07-11 05:18:38 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8626 252 152
+2010-07-11 05:18:39 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 267 157
+2010-07-11 05:18:39 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8448 264 152
+2010-07-11 05:18:39 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 266 145
+2010-07-11 05:18:39 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8441 261 148
+2010-07-11 05:18:39 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 263 146
+2010-07-11 05:18:39 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 8750 262 144
+2010-07-11 05:18:39 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 264 157
+2010-07-11 05:18:40 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 265 166
+2010-07-11 05:18:40 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 264 165
+2010-07-11 05:18:40 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 264 159
+2010-07-11 05:18:40 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 0 9110 258 151
+2010-07-11 05:18:40 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 263 171
+2010-07-11 05:18:40 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 213.165.65.207 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 404 0 2 1405 267 170
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-11 08:32:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-11 08:32:33 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 212.78.230.159 Mozilla/6.0+(compatible;+MSIE+7.0a1;+Windows+NT+5.2;+SV1) 200 0 0 9129 233 499
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-11 08:55:35
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-11 08:55:35 W3SVC20 67.222.136.138 GET / - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 8999 286 525
+2010-07-11 09:09:30 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.38 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+iOpus-I-M;+.NET+CLR+2.0.50727) 200 0 0 9018 148 406
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-11 12:46:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-11 12:45:59 W3SVC20 67.222.136.138 GET /index.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 8999 295 537
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-07-11 15:42:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-07-11 15:42:51 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 9110 295 529

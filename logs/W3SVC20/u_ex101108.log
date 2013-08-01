@@ -1,0 +1,65 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-08 06:09:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-08 06:09:41 W3SVC20 67.222.136.138 GET / - 80 - 68.168.105.57 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+Win64;+x64;+Trident/4.0) 200 0 0 8999 231 127
+2010-11-08 06:17:14 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.153 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 264 20
+2010-11-08 06:17:14 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 66.249.71.153 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 298 60
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-08 11:22:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-08 11:22:13 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.204.184 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 64 0 275 44
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-08 11:52:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-08 11:52:44 W3SVC20 67.222.136.138 GET /living.htm - 80 - 207.46.204.184 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 373 63
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-08 12:48:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-08 12:48:26 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 64.246.161.190 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 300 46
+2010-11-08 12:48:26 W3SVC20 67.222.136.138 GET / - 80 - 64.246.161.190 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 8999 510 198
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-08 20:58:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-08 20:58:06 W3SVC20 67.222.136.138 GET / - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8999 144 152
+2010-11-08 20:58:06 W3SVC20 67.222.136.138 GET /living.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 9082 154 79
+2010-11-08 20:58:06 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8584 160 92
+2010-11-08 20:58:06 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8441 153 56
+2010-11-08 20:58:07 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8750 154 631
+2010-11-08 20:58:09 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8448 156 103
+2010-11-08 20:58:09 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8546 157 76
+2010-11-08 20:58:09 W3SVC20 67.222.136.138 GET / - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8999 144 74
+2010-11-08 20:58:09 W3SVC20 67.222.136.138 GET /master.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 9207 154 100
+2010-11-08 20:58:09 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8626 157 77
+2010-11-08 20:58:09 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8578 155 94
+2010-11-08 20:58:09 W3SVC20 67.222.136.138 GET /index.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8999 153 72
+2010-11-08 20:58:10 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 9110 153 86
+2010-11-08 20:58:10 W3SVC20 67.222.136.138 GET /third2.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 404 0 2 1405 154 69
+2010-11-08 20:58:10 W3SVC20 67.222.136.138 GET /third.htm - 80 - 38.100.21.238 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.2) 200 0 0 8563 153 92
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-08 22:36:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-08 22:36:14 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 200
+2010-11-08 22:36:14 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 184
+2010-11-08 22:36:14 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 195
+2010-11-08 22:36:15 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 247 375
+2010-11-08 22:36:15 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 175
+2010-11-08 22:36:15 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 176
+2010-11-08 22:51:13 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9129 219 583
+2010-11-08 22:51:13 W3SVC20 67.222.136.138 GET /index.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9018 219 553
+2010-11-08 22:51:14 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8597 221 414
+2010-11-08 22:51:14 W3SVC20 67.222.136.138 GET /living.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9101 220 523
+2010-11-08 22:51:16 W3SVC20 67.222.136.138 GET /master.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9226 220 550
+2010-11-08 22:51:16 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8565 223 400
+2010-11-08 22:51:17 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8603 226 384
+2010-11-08 22:51:20 W3SVC20 67.222.136.138 GET /third.htm - 80 - 195.2.240.101 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8582 219 394
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-08 23:47:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-08 23:47:25 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.13.52 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 64 0 275 33

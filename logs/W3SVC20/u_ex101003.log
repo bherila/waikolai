@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-03 08:01:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-03 08:01:52 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.138 Googlebot-Image/1.0 404 0 2 1405 211 38
+2010-10-03 08:01:52 W3SVC20 67.222.136.138 GET /images/House/Guest1.JPG - 80 - 66.249.71.138 Googlebot-Image/1.0 304 0 0 210 257 90
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-03 14:46:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-03 14:46:27 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 66.249.71.138 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8441 246 74

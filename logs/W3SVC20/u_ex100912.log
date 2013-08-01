@@ -1,0 +1,56 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 00:21:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 00:21:56 W3SVC20 67.222.136.138 GET / - 80 - 208.80.194.30 Mozilla/4.0+(compatible;+MSIE+7.0;+AOL+9.0;+Windows+NT+5.1;+Media+Center+PC+3.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+IEMB3;+IEMB3) 200 0 0 9018 199 119
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 01:47:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 01:47:36 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 8584 302 533
+2010-09-12 01:47:38 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 8441 295 362
+2010-09-12 01:47:40 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 8626 299 531
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 06:08:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 06:08:53 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.138 Googlebot-Image/1.0 404 0 2 1405 211 21
+2010-09-12 06:08:53 W3SVC20 67.222.136.138 GET /images/House/Waikolai1.JPG - 80 - 66.249.71.138 Googlebot-Image/1.0 304 0 0 210 260 92
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 07:28:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 07:28:41 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 81
+2010-09-12 07:28:41 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9129 372 189
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 08:46:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 08:46:12 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 94.100.17.88 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Q312461) 200 0 0 9129 235 416
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 13:42:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 13:42:12 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 194
+2010-09-12 13:42:12 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 188
+2010-09-12 13:42:12 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 193
+2010-09-12 13:42:12 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 247 355
+2010-09-12 13:42:14 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 171
+2010-09-12 13:42:14 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 179
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 14:44:15
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 14:44:15 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8460 372 128
+2010-09-12 14:45:23 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8645 376 122
+2010-09-12 14:46:08 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8467 375 132
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 16:02:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 16:02:28 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 67.195.112.111 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8769 373 181
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-09-12 21:45:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-09-12 21:45:47 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 94.100.17.93 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 0 0 9129 250 441

@@ -1,0 +1,49 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-11-22 02:49:59
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-11-22 02:49:58 W3SVC20 67.222.136.138 GET / - 80 - 67.195.75.228 Nokia6682/2.0+(3.01.1)+SymbianOS/8.0+Series60/2.6+Profile/MIDP-2.0+configuration/CLDC-1.1++UP.Link/6.3.0.0.0+(compatible;YahooSeeker/M1A1-R2D2;+http://help.yahoo.com/help/us/ysearch/crawling/crawling-01.html) 200 0 0 8999 519 169
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 250 50
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET / - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 9023 240 106
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 57
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8570 253 66
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 54
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8650 253 56
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 56
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8465 249 76
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 57
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8602 251 54
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 62
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /living.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 9106 250 64
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 56
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /master.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 9231 250 52
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 64
+2009-11-22 02:57:20 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8608 256 92
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 55
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8774 250 94
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 64
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8472 252 67
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 55
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 9134 249 64
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 55
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /third.htm - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 200 0 0 8587 249 59
+2009-11-22 02:57:21 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 206.183.1.74 Mozilla/4.0+(compatible;+http://search.thunderstone.com/texis/websearch/about.html) 404 0 2 1429 255 88
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-11-22 09:41:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-11-22 09:41:12 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 12.175.178.250 Mozilla/5.0+(compatible;+heritrix/1.14.3.r6601++http://www.buddybuzz.net/yptrino) 404 0 2 1424 633 40
+2009-11-22 09:41:12 W3SVC20 67.222.136.138 GET / - 80 - 12.175.178.250 Mozilla/5.0+(compatible;+heritrix/1.14.3.r6601++http://www.buddybuzz.net/yptrino) 200 0 0 9018 592 111
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-11-22 22:00:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-11-22 22:00:12 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8603 215 1004
+2009-11-22 22:00:13 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8460 208 1015
+2009-11-22 22:00:14 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8597 210 1537
+2009-11-22 22:00:26 W3SVC20 67.222.136.138 GET /living.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9101 209 12142
+2009-11-22 22:00:31 W3SVC20 67.222.136.138 GET /master.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9226 209 3945
+2009-11-22 22:00:32 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8565 212 1176
+2009-11-22 22:00:33 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8645 212 942
+2009-11-22 22:01:01 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 121 0 211 27772
+2009-11-22 22:01:01 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 188.163.92.226 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8769 209 3319

@@ -1,0 +1,59 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 00:39:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 00:39:28 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 59
+2010-06-16 00:39:28 W3SVC20 67.222.136.138 GET /index.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 372 174
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 02:37:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 02:37:49 W3SVC20 67.222.136.138 GET /index.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8999 265 525
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 04:17:38
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 04:17:38 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.199.45 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 25
+2010-06-16 04:18:06 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8546 269 507
+2010-06-16 04:18:40 W3SVC20 67.222.136.138 GET / - 80 - 207.46.199.45 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 200 0 64 8760 222 92
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 06:52:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 06:52:02 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.29 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+HbTools+4.8.2) 200 0 0 9018 132 119
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 12:52:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 12:52:27 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 165 182
+2010-06-16 12:52:28 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 8999 260 173
+2010-06-16 12:52:30 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 161 174
+2010-06-16 12:52:31 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 260 191
+2010-06-16 12:52:31 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 256 164
+2010-06-16 12:52:33 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 256 174
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 13:52:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 13:52:24 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 58
+2010-06-16 13:52:24 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8565 376 133
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 15:27:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 15:27:49 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.142.138 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 165 182
+2010-06-16 15:27:50 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.142.138 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 161 176
+2010-06-16 15:27:51 W3SVC20 67.222.136.138 GET / - 80 - 95.108.142.138 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 8999 205 346
+2010-06-16 15:27:51 W3SVC20 67.222.136.138 GET / - 80 - 95.108.142.138 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 201 168
+2010-06-16 15:27:52 W3SVC20 67.222.136.138 GET / - 80 - 95.108.142.138 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 205 173
+2010-06-16 15:27:54 W3SVC20 67.222.136.138 GET / - 80 - 95.108.142.138 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 201 167
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 18:28:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 18:28:41 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 165 175
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-16 23:42:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-16 23:41:59 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 161 169

@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-27 05:19:11
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-27 05:19:11 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.150 Googlebot-Image/1.0 404 0 2 1405 211 23
+2010-05-27 05:19:11 W3SVC20 67.222.136.138 GET /images/House/amenity1.jpg - 80 - 66.249.71.150 Googlebot-Image/1.0 304 0 0 210 259 88
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-27 12:03:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-27 12:03:52 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 233848 284 1374
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-27 13:57:21
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-27 13:57:21 W3SVC20 67.222.136.138 GET /index.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8999 265 535
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-27 19:26:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-27 19:26:22 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 161 166

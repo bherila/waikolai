@@ -1,0 +1,56 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 00:04:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 00:04:06 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.179 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 264 39
+2010-04-13 00:04:06 W3SVC20 67.222.136.138 GET / - 80 - 66.249.71.179 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 237 90
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 01:30:39
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 01:30:39 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 184.73.85.159 taptubot+***+please+read+http://www.taptu.com/corp/taptubot+*** 404 0 2 1429 334 49
+2010-04-13 01:30:40 W3SVC20 67.222.136.138 GET / - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 200 0 0 9023 399 139
+2010-04-13 01:30:40 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 404 0 2 1429 456 47
+2010-04-13 01:30:41 W3SVC20 67.222.136.138 GET /apple-touch-icon.png - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 404 0 2 1429 419 44
+2010-04-13 01:30:42 W3SVC20 67.222.136.138 GET / - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 200 0 0 9023 403 152
+2010-04-13 01:30:42 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 404 0 2 1429 464 38
+2010-04-13 01:31:05 W3SVC20 67.222.136.138 GET /iphone/ - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 404 0 2 1429 410 56
+2010-04-13 01:31:05 W3SVC20 67.222.136.138 GET /mobile/ - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 404 0 2 1429 410 45
+2010-04-13 01:31:05 W3SVC20 67.222.136.138 GET /m/ - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 404 0 2 1429 405 62
+2010-04-13 01:31:10 W3SVC20 67.222.136.138 GET /mobi/ - 80 - 184.73.85.159 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+3_0+like+Mac+OS+X;+en)+AppleWebKit/528.18+(KHTML,+like+Gecko)+Version/4.0+Mobile/7A341+Safari/528.16 404 0 2 1429 408 50
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 02:35:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 02:35:32 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 161 173
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 08:23:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 08:23:45 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 72.18.192.176 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)+Opera+7.54+[en] 200 0 0 9129 250 135
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 08:42:26
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 08:42:26 W3SVC20 67.222.136.138 GET / - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8999 256 528
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 15:02:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 15:02:40 W3SVC20 67.222.136.138 GET /living.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 304 0 0 210 316 173
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 20:52:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 20:52:58 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.27 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+{3A1D666A-49FA-4F8B-BAB3-B37EC201DCF0};+SV1) 200 0 0 9018 162 271
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 21:49:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 21:49:31 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.179 Googlebot-Image/1.0 404 0 2 1405 211 25
+2010-04-13 21:49:31 W3SVC20 67.222.136.138 GET /images/House/Reservations1.JPG - 80 - 66.249.71.179 Googlebot-Image/1.0 304 0 0 210 264 88
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-04-13 22:21:16
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-04-13 22:21:16 W3SVC20 67.222.136.138 GET /index.htm - 80 - 66.249.71.179 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 246 89

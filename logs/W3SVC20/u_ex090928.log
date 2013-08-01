@@ -1,0 +1,56 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 00:00:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 00:00:43 W3SVC20 67.222.136.138 GET / - 80 - 66.249.71.173 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 8999 241 86
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 04:39:06
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 04:39:06 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 92.115.199.149 Mozilla/4.76+[en]+(Windows+NT+5.0;+U) 200 0 0 9129 191 693
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 06:40:10
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 06:40:10 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 66.249.71.77 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 233848 254 219
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 10:16:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 10:16:36 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.22.185 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 37
+2009-09-28 10:16:36 W3SVC20 67.222.136.138 GET /living.htm - 80 - 74.6.22.185 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9101 381 122
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 11:05:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 11:05:50 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 123.115.176.215 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+98) 200 0 0 9134 192 1307
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 11:54:14
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 11:54:14 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.26 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+1&1+Internet+AG+by+USt;+FunWebProducts) 200 0 0 9018 146 161
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 13:26:45
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 13:26:45 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.101 Googlebot-Image/1.0 404 0 2 1405 200 26
+2009-09-28 13:26:45 W3SVC20 67.222.136.138 GET /images/House/Kitchen1.JPG - 80 - 66.249.71.101 Googlebot-Image/1.0 304 0 0 210 248 87
+2009-09-28 13:35:44 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.40 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+iebar;+FunWebProducts;+.NET+CLR+1.1.4322;+ZangoToolbar+4.8.2;+Comcast;+Comcast) 200 0 0 9018 182 151
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 14:34:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 14:34:27 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 65.55.106.230 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 200 35
+2009-09-28 14:35:11 W3SVC20 67.222.136.138 GET / - 80 - 65.55.106.230 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 307 37
+2009-09-28 14:46:10 W3SVC20 67.222.136.138 GET /images/House/Vistas1.JPG - 80 - 66.249.71.101 Googlebot-Image/1.0 304 0 0 209 247 25
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 17:28:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 17:28:44 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.28 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+sbcydsl+3.12;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+IEMB3;+IEMB3) 200 0 0 9018 184 149
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-28 20:16:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-28 20:16:51 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 65.55.106.138 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 189 60
+2009-09-28 20:17:39 W3SVC20 67.222.136.138 GET / - 80 - 65.55.106.138 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 296 49

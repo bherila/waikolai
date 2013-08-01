@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-18 11:58:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-18 11:58:58 W3SVC20 67.222.136.138 GET /dvdrental.com - 80 - 98.242.170.241 Opera/9.80+(Windows+NT+5.2;+U;+en)+Presto/2.2.15+Version/10.10 404 0 64 0 274 45

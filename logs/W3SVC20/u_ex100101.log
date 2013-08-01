@@ -1,0 +1,120 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 00:13:17
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 00:13:17 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9129 212 433
+2010-01-01 00:13:17 W3SVC20 67.222.136.138 GET /index.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9018 212 417
+2010-01-01 00:13:17 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8597 214 280
+2010-01-01 00:13:19 W3SVC20 67.222.136.138 GET /living.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9101 213 412
+2010-01-01 00:13:19 W3SVC20 67.222.136.138 GET /master.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9226 213 419
+2010-01-01 00:13:20 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8565 216 287
+2010-01-01 00:13:20 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8603 219 283
+2010-01-01 00:13:20 W3SVC20 67.222.136.138 GET /third.htm - 80 - 194.8.75.155 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8582 212 280
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 05:26:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 05:26:36 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.44 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+SIMBAR+Enabled;+SIMBAR={1B2D10D6-16E7-47ac-A6CD-3EA594C79C01};+.NET+CLR+1.1.4322) 200 0 0 9018 215 128
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 06:51:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 06:51:30 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 195.88.33.83 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+T312461) 200 0 0 9129 213 495
+2010-01-01 07:02:48 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 404 0 64 0 171 138
+2010-01-01 07:02:48 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8578 172 319
+2010-01-01 07:02:48 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 64 0 186 147
+2010-01-01 07:02:48 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 404 0 64 0 206 147
+2010-01-01 07:02:49 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 404 0 64 0 203 142
+2010-01-01 07:02:50 W3SVC20 67.222.136.138 GET /images/House/Kitchen2.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 56968 186 838
+2010-01-01 07:02:58 W3SVC20 67.222.136.138 GET /images/House/Kitchen1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 27993 186 170
+2010-01-01 07:03:02 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8584 177 172
+2010-01-01 07:03:02 W3SVC20 67.222.136.138 GET /images/House/Reservations1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 77852 191 334
+2010-01-01 07:03:38 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8448 173 181
+2010-01-01 07:03:52 W3SVC20 67.222.136.138 GET /images/House/Waikolai1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 91937 187 351
+2010-01-01 07:03:55 W3SVC20 67.222.136.138 GET /images/House/Waikolai2.jpg - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 38228 187 343
+2010-01-01 07:04:01 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 9110 170 172
+2010-01-01 07:04:01 W3SVC20 67.222.136.138 GET /images/House/Guest1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 28113 184 176
+2010-01-01 07:04:04 W3SVC20 67.222.136.138 GET /images/House/Guest3.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 49877 184 233
+2010-01-01 07:04:06 W3SVC20 67.222.136.138 GET /images/House/Guest2.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 56705 184 427
+2010-01-01 07:04:09 W3SVC20 67.222.136.138 GET /master.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 9207 171 211
+2010-01-01 07:04:10 W3SVC20 67.222.136.138 GET /images/House/Master1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 23955 185 318
+2010-01-01 07:04:12 W3SVC20 67.222.136.138 GET /images/House/Master3.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 55962 185 195
+2010-01-01 07:04:17 W3SVC20 67.222.136.138 GET /images/House/Master2.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 48765 185 183
+2010-01-01 07:04:20 W3SVC20 67.222.136.138 GET / - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8999 161 235
+2010-01-01 07:04:20 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 233848 185 908
+2010-01-01 07:04:24 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8441 170 176
+2010-01-01 07:04:24 W3SVC20 67.222.136.138 GET /images/House/Entry1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 31859 184 193
+2010-01-01 07:04:27 W3SVC20 67.222.136.138 GET /images/House/Entry2.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 60560 184 187
+2010-01-01 07:04:30 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8546 174 180
+2010-01-01 07:04:30 W3SVC20 67.222.136.138 GET /images/House/amenity1.jpg - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 39068 186 183
+2010-01-01 07:04:33 W3SVC20 67.222.136.138 GET /images/House/amenity2.jpg - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 28508 186 192
+2010-01-01 07:04:35 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8750 171 185
+2010-01-01 07:04:35 W3SVC20 67.222.136.138 GET /images/House/Vistas1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 118826 185 381
+2010-01-01 07:04:39 W3SVC20 67.222.136.138 GET /images/House/Vistas4.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 185506 185 537
+2010-01-01 07:04:41 W3SVC20 67.222.136.138 GET /images/House/Vistas3.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 168944 185 509
+2010-01-01 07:04:44 W3SVC20 67.222.136.138 GET /images/House/Vistas2.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 111169 185 368
+2010-01-01 07:04:47 W3SVC20 67.222.136.138 GET /living.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 9082 171 183
+2010-01-01 07:04:47 W3SVC20 67.222.136.138 GET /images/House/Living1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 30526 185 179
+2010-01-01 07:04:50 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 8626 174 178
+2010-01-01 07:04:50 W3SVC20 67.222.136.138 GET /images/House/Big1.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 128644 182 355
+2010-01-01 07:04:54 W3SVC20 67.222.136.138 GET /images/House/Big4.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 196295 182 674
+2010-01-01 07:04:57 W3SVC20 67.222.136.138 GET /images/House/Big3.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 159023 182 509
+2010-01-01 07:05:03 W3SVC20 67.222.136.138 GET /images/House/Big2.JPG - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 134340 182 496
+2010-01-01 07:05:09 W3SVC20 67.222.136.138 GET /images/house/living2.jpg - 80 - 194.153.113.8 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+NT+4.0;+obot) 200 0 0 59969 185 198
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 07:54:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 07:54:01 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 404 0 2 1405 220 36
+2010-01-01 07:54:31 W3SVC20 67.222.136.138 GET / - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 200 0 0 9018 245 109
+2010-01-01 07:54:31 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 66.235.124.1 Mozilla/5.0+(compatible;+Ask+Jeeves/Teoma;++http://about.ask.com/en/docs/about/webmasters.shtml) 200 0 0 233867 269 307
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 08:20:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 08:20:30 W3SVC20 67.222.136.138 GET / - 80 - 94.102.63.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+MyIE2;+Deepnet+Explorer) 200 0 0 9018 226 366
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 09:44:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 09:44:30 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 38.103.167.157 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Deepnet+Explorer+1.5.0;+.NET+CLR+1.0.3705) 200 0 0 9129 247 318
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 10:35:18
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 10:35:18 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.237 Googlebot-Image/1.0 404 0 2 1405 211 29
+2010-01-01 10:35:18 W3SVC20 67.222.136.138 GET /images/House/Big1.JPG - 80 - 66.249.71.237 Googlebot-Image/1.0 200 0 0 128644 205 185
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 16:10:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 16:10:57 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 174.143.254.129 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+WOW64;+SV1;+.NET+CLR+2.0.50727) 200 0 0 9134 332 15
+2010-01-01 16:12:17 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.27 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+PeoplePal+3.0) 200 0 0 9018 196 133
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 16:52:22
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 16:52:22 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.115.169 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 193 57
+2010-01-01 16:52:22 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 67.195.115.169 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8597 398 128
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 17:20:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 17:20:42 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 195.88.33.83 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+Alexa+Toolbar;+(R1+1.5)) 200 0 0 9129 248 495
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 18:07:27
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 18:07:27 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 65.55.106.187 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 208 36
+2010-01-01 18:08:11 W3SVC20 67.222.136.138 GET / - 80 - 65.55.106.187 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 304 0 64 0 296 37
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 18:41:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 18:41:00 W3SVC20 67.222.136.138 GET /living.htm - 80 - 67.195.115.169 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9101 397 191
+2010-01-01 18:48:08 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.26 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+SIMBAR+Enabled;+SIMBAR={502234EF-EF96-476d-8B98-DA5B3139B1AE};+HbTools+4.8.2) 200 0 0 9018 185 148
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-01-01 21:11:25
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-01-01 21:11:25 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 194.8.74.53 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1) 200 0 0 9129 221 420

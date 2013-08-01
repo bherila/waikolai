@@ -1,0 +1,37 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-01-07 03:55:31
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2011-01-07 03:55:31 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 190
+2011-01-07 03:55:31 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 179
+2011-01-07 03:55:31 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 189
+2011-01-07 03:55:31 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 243 338
+2011-01-07 03:55:33 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 170
+2011-01-07 03:55:33 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 170
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-01-07 08:41:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2011-01-07 08:41:55 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 77.88.25.28 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0 8584 308 552
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-01-07 09:26:49
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2011-01-07 09:26:49 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.13.93 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 64 0 275 26
+2011-01-07 09:33:39 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 207.46.13.93 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 376 52
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-01-07 10:13:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2011-01-07 10:13:37 W3SVC20 67.222.136.138 GET / - 80 - 208.80.194.32 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+NN5.0.3.3) 200 0 0 9018 133 145
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-01-07 14:49:34
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2011-01-07 14:49:34 W3SVC20 67.222.136.138 GET / - 80 - 123.125.71.103 Baiduspider+(+http://www.baidu.com/search/spider.htm) 304 0 0 229 286 286
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2011-01-07 19:25:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2011-01-07 19:25:54 W3SVC20 67.222.136.138 GET / - 80 - 123.125.71.98 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 159 235
+2011-01-07 19:26:12 W3SVC20 67.222.136.138 GET / - 80 - 220.181.108.170 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 64 1460 159 225

@@ -1,0 +1,78 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 02:16:29
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 02:16:29 W3SVC20 67.222.136.138 GET / - 80 - 208.80.195.38 Mozilla/4.0+(compatible;+MSIE+6.0;+AOL+9.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+Windows-Media-Player/10.00.00.3990) 200 0 0 9018 186 178
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 03:34:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 03:34:00 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 200.140.46.19 Mozilla/4.0+(compatible;+Powermarks/3.5;+Windows+95/98/2000/NT) 200 0 0 9129 215 1299
+2009-08-22 03:34:40 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.17.152 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 193 34
+2009-08-22 03:34:40 W3SVC20 67.222.136.138 GET / - 80 - 74.6.17.152 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 364 102
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 04:27:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 04:27:56 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 221.178.181.197 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+TheFreeDictionary.com;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705;+.NET+CLR+2.0.50727) 200 0 0 9134 340 593
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 05:11:01
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET / - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 8999 485 337
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 1574 402 160
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 8618 397 393
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 5290 402 444
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 404 0 2 1405 364 227
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 19736 396 663
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 404 0 2 1405 421 300
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 404 0 2 1405 424 330
+2009-08-22 05:11:01 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 1949 400 290
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 27876 403 1045
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 2585 394 354
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 2297 398 371
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 404 0 2 1405 423 520
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 121830 410 1923
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 27735 404 1114
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 3585 396 626
+2009-08-22 05:11:02 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 1140 403 637
+2009-08-22 05:11:04 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 200 0 0 233848 433 2705
+2009-08-22 05:11:04 W3SVC20 67.222.136.138 GET /favicon.ico - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 404 0 64 0 355 106
+2009-08-22 05:11:08 W3SVC20 67.222.136.138 GET /favicon.ico - 80 - 75.164.154.252 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.0.11)+Gecko/2009060215+Firefox/3.0.11 404 0 2 1405 385 307
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 06:41:05
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 06:41:05 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 36
+2009-08-22 06:41:05 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8645 384 80
+2009-08-22 06:52:43 W3SVC20 67.222.136.138 GET / - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 371 111
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 10:58:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 10:58:55 W3SVC20 67.222.136.138 GET / - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 304 0 0 229 456 34
+2009-08-22 11:07:34 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8467 383 78
+2009-08-22 11:07:40 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.17.152 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 193 35
+2009-08-22 11:07:40 W3SVC20 67.222.136.138 GET /master.htm - 80 - 74.6.17.152 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9226 374 112
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 14:22:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 14:22:50 W3SVC20 67.222.136.138 GET / - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 304 0 0 229 456 37
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 17:08:24
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 17:08:24 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 35
+2009-08-22 17:08:24 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8769 381 116
+2009-08-22 17:15:03 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 86.55.123.30 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+Alexa+Toolbar;+(R1+1.5)) 200 0 0 9129 256 910
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 18:12:00
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 18:12:00 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 74.6.22.175 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8597 382 79
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-08-22 22:39:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-08-22 22:39:41 W3SVC20 67.222.136.138 GET / - 80 - 208.80.195.48 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+FunWebProducts;+CMS+Music+Store2+v1.00.13+(Music+Store,1033);+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30) 200 0 0 9018 230 151

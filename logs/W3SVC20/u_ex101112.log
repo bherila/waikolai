@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-12 06:21:52
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-12 06:21:52 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.112.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 73
+2010-11-12 06:21:52 W3SVC20 67.222.136.138 GET /index.htm - 80 - 67.195.112.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9018 368 185
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-11-12 14:34:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-11-12 14:34:55 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.112.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 74
+2010-11-12 14:34:55 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 67.195.112.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8460 368 138

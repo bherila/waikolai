@@ -1,0 +1,80 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 02:41:53
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 02:41:52 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 72.30.142.89 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 41
+2009-09-21 02:41:53 W3SVC20 67.222.136.138 GET /living.htm - 80 - 72.30.142.89 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 9101 381 117
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 03:38:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 03:38:42 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.37 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+YPC+3.2.0;+InfoPath.1;+Windows-Media-Player/10.00.00.3990;+yplus+5.1.04b) 200 0 0 9018 180 148
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 05:16:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 05:16:48 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.38 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+MSDigitalLocker;+Comcast+Install+1.0;+.NET+CLR+1.1.4322) 200 0 0 9018 159 113
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 06:27:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 06:27:54 W3SVC20 67.222.136.138 GET / - 80 - 208.91.113.20 Mozilla/5.0+(Windows;+U;+Windows+NT+5.0;+en-US;+rv:1.7.5)+Gecko/20041107+Firefox/1.0 200 0 0 9023 296 212
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 07:58:58
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 07:58:58 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.77 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 257 25
+2009-09-21 07:58:58 W3SVC20 67.222.136.138 GET /master.htm - 80 - 66.249.71.77 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 290 66
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 09:22:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 09:22:33 W3SVC20 67.222.136.138 GET / - 80 - 208.80.193.43 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+SLCC1;+.NET+CLR+2.0.50727;+InfoPath.1;+.NET+CLR+1.1.4322;+.NET+CLR+3.5.20706;+.NET+CLR+3.0.590) 200 0 0 9018 213 157
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 10:06:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 10:06:13 W3SVC20 67.222.136.138 GET /images/House/Living2.JPG - 80 - 65.55.108.37 WinHttp 200 0 64 0 102 64
+2009-09-21 10:06:13 W3SVC20 67.222.136.138 GET /living.htm - 80 - 65.55.108.37 WinHttp 200 0 0 9101 88 112
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 17:44:41
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 17:44:41 W3SVC20 67.222.136.138 GET /images/House/Guest3.JPG - 80 - 66.249.71.77 Googlebot-Image/1.0 200 0 0 49877 250 244
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2009-09-21 23:10:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2009-09-21 23:10:02 W3SVC20 67.222.136.138 GET /index.htm - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 8999 298 673
+2009-09-21 23:10:02 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 8618 351 366
+2009-09-21 23:10:03 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 19736 350 900
+2009-09-21 23:10:03 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 27876 357 931
+2009-09-21 23:10:03 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 27735 358 777
+2009-09-21 23:10:04 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 2 1405 375 298
+2009-09-21 23:10:04 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 1574 356 246
+2009-09-21 23:10:05 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 5290 356 299
+2009-09-21 23:10:05 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 64 0 378 174
+2009-09-21 23:10:05 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 121830 364 2448
+2009-09-21 23:10:05 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 2585 348 171
+2009-09-21 23:10:05 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 1949 354 170
+2009-09-21 23:10:06 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 2297 352 143
+2009-09-21 23:10:06 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 2 1405 377 144
+2009-09-21 23:10:06 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 1140 357 288
+2009-09-21 23:10:06 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0 3585 350 313
+2009-09-21 23:10:16 W3SVC20 67.222.136.138 GET /index.htm - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 383 261
+2009-09-21 23:10:16 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 211 443 273
+2009-09-21 23:10:16 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 443 273
+2009-09-21 23:10:16 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 435 284
+2009-09-21 23:10:16 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 211 450 287
+2009-09-21 23:10:18 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 436 251
+2009-09-21 23:10:18 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 441 248
+2009-09-21 23:10:18 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 2 1405 375 138
+2009-09-21 23:10:18 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 2 1405 348 137
+2009-09-21 23:10:18 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 441 263
+2009-09-21 23:10:18 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 2 1405 378 128
+2009-09-21 23:10:18 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 439 252
+2009-09-21 23:10:19 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 433 141
+2009-09-21 23:10:19 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 437 187
+2009-09-21 23:10:19 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 64 0 377 150
+2009-09-21 23:10:19 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 435 313
+2009-09-21 23:10:19 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 63.167.43.60 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 304 0 0 210 442 282

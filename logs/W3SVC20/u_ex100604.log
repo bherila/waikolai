@@ -1,0 +1,26 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-04 00:58:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-04 00:58:23 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 165 163
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-04 04:42:13
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-04 04:42:13 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 165 214
+2010-06-04 04:42:13 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 404 0 2 1405 161 178
+2010-06-04 04:42:15 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 8999 260 327
+2010-06-04 04:42:15 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 256 187
+2010-06-04 04:42:16 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 260 164
+2010-06-04 04:42:17 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Yandex/1.01.001+(compatible;+Win16;+H) 200 0 0 2816 256 179
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-04 12:58:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-04 12:58:30 W3SVC20 67.222.136.138 GET / - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8999 260 529
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-06-04 21:45:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-06-04 21:45:39 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 64.246.178.34 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 404 0 2 1424 300 45
+2010-06-04 21:45:39 W3SVC20 67.222.136.138 GET / - 80 - 64.246.178.34 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) 200 0 0 8999 510 156

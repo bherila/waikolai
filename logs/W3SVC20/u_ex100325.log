@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-25 07:34:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-25 07:34:56 W3SVC20 67.222.136.138 GET /index.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 8999 265 530
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-25 16:01:02
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-25 16:01:01 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.173 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2 1405 268 25
+2010-03-25 16:01:02 W3SVC20 67.222.136.138 GET / - 80 - 66.249.71.173 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 210 291 72
+2010-03-25 16:06:27 W3SVC20 67.222.136.138 GET /master.htm - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 304 0 0 210 316 175
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-03-25 22:42:30
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-03-25 22:42:30 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.13.47 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 404 0 64 0 219 38
+2010-03-25 22:43:10 W3SVC20 67.222.136.138 GET / - 80 - 207.46.13.47 msnbot/2.0b+(+http://search.msn.com/msnbot.htm) 200 0 64 8760 222 78

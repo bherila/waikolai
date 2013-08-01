@@ -1,0 +1,89 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 03:55:54
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 03:55:54 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.13.49 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 64 0 275 27
+2010-10-30 04:00:59 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 207.46.13.49 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 373 40
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 04:50:40
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 04:50:40 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 188.92.75.244 Opera/9.0+(Windows+NT+5.1;+U;+en) 200 0 0 9129 209 489
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 06:56:32
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 06:56:32 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9129 219 3211
+2010-10-30 06:56:36 W3SVC20 67.222.136.138 GET /index.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9018 219 2612
+2010-10-30 06:56:38 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8597 221 1706
+2010-10-30 06:56:42 W3SVC20 67.222.136.138 GET /living.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9101 220 2919
+2010-10-30 06:56:46 W3SVC20 67.222.136.138 GET /master.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 9226 220 2925
+2010-10-30 06:56:49 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8565 223 2067
+2010-10-30 06:56:53 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8603 226 2394
+2010-10-30 06:56:55 W3SVC20 67.222.136.138 GET /third.htm - 80 - 188.92.75.82 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) 200 0 0 8582 219 1749
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 16:21:33
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 16:21:33 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 93.190.137.116 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322) 200 0 0 9129 264 394
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 17:42:42
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET / - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 8999 682 221
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/maunakealogo.gif - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1574 367 100
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 386 108
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 389 105
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/shadow.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 19736 361 198
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/pattern.gif - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 8618 362 163
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/submenu1.gif - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2297 363 74
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 388 88
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/source/header.png - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 27876 368 351
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/footer.gif - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 3585 361 119
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/waikolailogo.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 5290 367 111
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/princelogo.gif - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1949 365 101
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/source/header2.png - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 27735 369 402
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 64 0 359 119
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/menu.gif - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 2585 359 164
+2010-10-30 17:42:42 W3SVC20 67.222.136.138 GET /images/shadow_bottom.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 1140 368 317
+2010-10-30 17:42:44 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 121830 375 2031
+2010-10-30 17:42:44 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 233848 397 2694
+2010-10-30 17:42:44 W3SVC20 67.222.136.138 GET /favicon.ico - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 64 0 289 54
+2010-10-30 17:43:09 W3SVC20 67.222.136.138 GET /images/menuroll.gif - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 4627 363 261
+2010-10-30 17:43:11 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 8584 624 89
+2010-10-30 17:43:11 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 64 0 375 60
+2010-10-30 17:43:11 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 404 76
+2010-10-30 17:43:11 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 405 242
+2010-10-30 17:43:11 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 402 254
+2010-10-30 17:43:11 W3SVC20 67.222.136.138 GET /images/House/Reservations1.JPG - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0 77852 390 322
+2010-10-30 17:43:11 W3SVC20 67.222.136.138 GET /favicon.ico - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 64 0 289 54
+2010-10-30 17:44:38 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 64 0 375 51
+2010-10-30 17:44:39 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 402 206
+2010-10-30 17:44:39 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 404 186
+2010-10-30 17:44:39 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 405 199
+2010-10-30 17:44:42 W3SVC20 67.222.136.138 GET /NoIEActivate.js - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 64 0 359 51
+2010-10-30 17:44:42 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/body_photo.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 388 164
+2010-10-30 17:44:42 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/subnav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 389 224
+2010-10-30 17:44:42 W3SVC20 67.222.136.138 GET /images/pages/com_about/images/nav_roll.jpg - 80 - 69.104.76.142 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2 1405 386 235
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 18:27:44
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 18:27:44 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 207.46.195.107 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 64 0 275 26
+2010-10-30 18:29:45 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 95.215.0.200 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+5.0)+Opera+7.02+Bork-edition+[en] 200 0 0 9129 282 548
+2010-10-30 18:36:37 W3SVC20 67.222.136.138 GET / - 80 - 207.46.195.107 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 64 0 363 27
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 22:35:28
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 22:35:28 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 85.17.87.136 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) 200 0 64 0 135 151
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-10-30 23:20:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-10-30 23:20:20 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 203 180
+2010-10-30 23:20:20 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 404 0 2 1405 207 173
+2010-10-30 23:20:20 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 187
+2010-10-30 23:20:21 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 8999 243 364
+2010-10-30 23:20:21 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 243 172
+2010-10-30 23:20:21 W3SVC20 67.222.136.138 GET / - 80 - 95.108.150.235 Mozilla/5.0+(compatible;+YandexBot/3.0;+MirrorDetector;++http://yandex.com/bots) 200 0 0 2816 247 164

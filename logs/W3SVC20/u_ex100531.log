@@ -1,0 +1,60 @@
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 00:43:48
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 00:43:48 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2 1424 200 56
+2010-05-31 00:43:48 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 67.195.115.106 Mozilla/5.0+(compatible;+Yahoo!+Slurp/3.0;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0 8460 372 121
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 03:08:57
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 03:08:57 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 66.249.71.150 Googlebot-Image/1.0 404 0 2 1405 211 35
+2010-05-31 03:08:57 W3SVC20 67.222.136.138 GET /images/House/Vistas4.JPG - 80 - 66.249.71.150 Googlebot-Image/1.0 304 0 0 210 258 74
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 03:41:50
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 03:41:50 W3SVC20 67.222.136.138 GET /images/House/Entry1.JPG - 80 - 66.249.71.150 Googlebot-Image/1.0 304 0 0 210 257 41
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 04:15:12
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 04:15:12 W3SVC20 67.222.136.138 GET /images/source/plumeriasmall.png - 80 - 66.249.71.150 Googlebot-Image/1.0 304 0 0 211 265 41
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 06:24:43
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 06:24:43 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 404 0 2 1424 218 49
+2010-05-31 06:24:43 W3SVC20 67.222.136.138 GET / - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 9018 208 157
+2010-05-31 06:24:45 W3SVC20 67.222.136.138 GET / - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 2835 208 61
+2010-05-31 06:24:46 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 8597 219 109
+2010-05-31 06:24:48 W3SVC20 67.222.136.138 GET /living.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 9101 218 144
+2010-05-31 06:24:49 W3SVC20 67.222.136.138 GET /master.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 9226 218 150
+2010-05-31 06:24:50 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 8565 221 109
+2010-05-31 06:24:52 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 8603 224 108
+2010-05-31 06:24:53 W3SVC20 67.222.136.138 GET /bigisland.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 8645 221 102
+2010-05-31 06:24:54 W3SVC20 67.222.136.138 GET /waikolai.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 8467 220 108
+2010-05-31 06:24:55 W3SVC20 67.222.136.138 GET /entry.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 8460 217 109
+2010-05-31 06:24:57 W3SVC20 67.222.136.138 GET /vistas.htm - 80 - 65.55.3.141 msnbot/2.0b+(+http://search.msn.com/msnbot.htm)._ 200 0 0 8769 218 145
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 14:11:36
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 14:11:36 W3SVC20 67.222.136.138 GET /flash/Current/finish.swf - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 200 0 0 233848 280 1365
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 15:45:55
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 15:45:55 W3SVC20 67.222.136.138 GET /robots.txt - 80 - 77.88.25.28 Yandex/1.01.001+(compatible;+Win16;+I) 404 0 2 1405 165 161
+#Software: Microsoft Internet Information Services 7.0
+#Version: 1.0
+#Date: 2010-05-31 22:04:37
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2010-05-31 22:04:37 W3SVC20 67.222.136.138 GET /guest.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 9129 226 438
+2010-05-31 22:04:37 W3SVC20 67.222.136.138 GET /index.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 9018 226 400
+2010-05-31 22:04:37 W3SVC20 67.222.136.138 GET /kitchen.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 8597 228 273
+2010-05-31 22:04:38 W3SVC20 67.222.136.138 GET /living.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 9101 227 867
+2010-05-31 22:04:40 W3SVC20 67.222.136.138 GET /master.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 9226 227 398
+2010-05-31 22:04:40 W3SVC20 67.222.136.138 GET /amenities.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 8565 230 272
+2010-05-31 22:04:40 W3SVC20 67.222.136.138 GET /reservations.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 8603 233 273
+2010-05-31 22:04:41 W3SVC20 67.222.136.138 GET /third.htm - 80 - 213.5.71.85 Opera/9.80+(Windows+NT+5.2;+U;+ru)+Presto/2.5.24+Version/10.53 200 0 0 8582 226 270
